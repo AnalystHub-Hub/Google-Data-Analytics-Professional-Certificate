@@ -1,6 +1,6 @@
 # Google Data Analytics Professional Certificate
 
-![alt text](https://github.com/nijatullahmansoor/Google-Data-Analytics-Professional-Certificate/blob/main/certeficate.PNG)
+![alt text](https://raw.githubusercontent.com/njimonda/Google-Data-Analytics-Professional-Certificate/main/certeficate.PNG)
 
 ## About this Professional Certificate
 
